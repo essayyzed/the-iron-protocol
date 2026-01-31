@@ -13,6 +13,7 @@ You will:
 - Understand **how computers actually work** (OS, networks, hardware)
 - Build **database-backed applications** at scale
 - **Explore 5+ fields** (ML, security, mobile, cloud, data engineering) to find your passion
+ - Use **Recluze playlists** for reinforcement (Intermediate Python before DSA, OS/Networks during labs)
 
 **Philosophy:** Breadth before depth. Don't specialize yet. Explore everything, then choose.
 

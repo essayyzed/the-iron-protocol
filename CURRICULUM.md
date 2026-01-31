@@ -26,6 +26,19 @@ It is based on:
 - A "breadth-first, specialization-later" philosophy.
 - The learning principles explained in the video series you shared.
 
+---
+
+## 🎥 Recluze Playlist Placement (Quick Map)
+
+| Phase | Best Fit | Use Case |
+| :--- | :--- | :--- |
+| Year 1, Semester 1 | How to Approach Learning, Intro to Computing | Habits, learning method, foundations |
+| Year 1, Semester 2 | Web Development playlists | Confidence-builder projects |
+| Summer Break 1 | System Administration playlists | Servers, Docker, Linux ops |
+| Year 2, Semester 3 | Intermediate Python | Stronger fundamentals before DSA |
+| Year 2, Semester 4 | OS / Networks playlists | Concept-to-lab alignment |
+| Year 3–4 | Specialization playlists | Deep-dive and portfolio focus |
+
 ## 👥 Who This Is For
 
 - Students in **any year** (1st to 4th).
@@ -359,6 +372,7 @@ Dedicate **2–2.5 hours per day** to web development.
 
 - Watch OS basics from playlists (processes, memory, scheduling – conceptual level for now).
 - Start connecting: "How does a linked list work in memory?" "What does the OS do when I allocate memory?"
+ - **Intermediate Python (Recluze playlist)** – reinforce programming fluency before deeper DSA.
 
 ### 📦 Projects (End of Semester Targets)
 

@@ -68,6 +68,19 @@ If you are just starting, your immediate objectives are:
 
 ---
 
+## 🎥 Recluze Playlist Placement (Quick Map)
+
+| Phase | Best Fit | Use Case |
+| :--- | :--- | :--- |
+| Year 1, Semester 1 | How to Approach Learning, Intro to Computing | Habits, learning method, foundations |
+| Year 1, Semester 2 | Web Development playlists | Confidence-builder projects |
+| Summer Break 1 | System Administration playlists | Servers, Docker, Linux ops |
+| Year 2, Semester 3 | Intermediate Python | Stronger fundamentals before DSA |
+| Year 2, Semester 4 | OS / Networks playlists | Concept-to-lab alignment |
+| Year 3–4 | Specialization playlists | Deep-dive and portfolio focus |
+
+---
+
 ## 📂 Repository Structure
 
 ```text
