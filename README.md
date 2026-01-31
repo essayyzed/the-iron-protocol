@@ -38,10 +38,10 @@ The curriculum is divided into four distinct phases. Click a phase to view the d
 
 | Phase | Codename | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
-| **Year 1** | **[📂 GENESIS](./01_GENESIS)** | Logic, C++, Memory, Linux Boot Camp | `FOUNDATION` |
-| **Year 2** | **[📂 ARCHITECTURE](./02_ARCHITECTURE)** | DSA, Networking, OS, Docker | `CORE` |
-| **Year 3** | **[📂 SPECIALIZATION](./03_SPECIALIZATION)** | Cloud, Agentic AI, Cybersec, Mobile | `DEPTH` |
-| **Year 4** | **[📂 MASTERY](./04_MASTERY)** | Final Year Project, System Design, Career | `DEPLOY` |
+| **Year 1** | **[📂 GENESIS](./01_GENESIS/README.md)** | Logic, C++, Memory, Linux Boot Camp | `FOUNDATION` |
+| **Year 2** | **[📂 ARCHITECTURE](./02_ARCHITECTURE/README.md)** | DSA, Networking, OS, Docker | `CORE` |
+| **Year 3** | **[📂 SPECIALIZATION](./03_SPECIALIZATION/README.md)** | Cloud, Agentic AI, Cybersec, Mobile | `DEPTH` |
+| **Year 4** | **[📂 MASTERY](./04_MASTERY/README.md)** | Final Year Project, System Design, Career | `DEPLOY` |
 
 ---
 
@@ -78,21 +78,25 @@ iron-protocol/
 ├── 📜 CURRICULUM.md        <-- Full 4-year detailed roadmap
 │
 ├── 📁 01_GENESIS/          <-- Year 1 Curriculum
+│   ├── README.md           <-- Year 1 Overview
 │   ├── semester_1.md       <-- The Purist Phase (C++, Logic)
 │   ├── semester_2.md       <-- The Full Stack Awakening
 │   └── sysadmin_bootcamp.md <-- Summer 1 (CRITICAL)
 │
 ├── 📁 02_ARCHITECTURE/     <-- Year 2 Curriculum
+│   ├── README.md           <-- Year 2 Overview
 │   ├── semester_3.md       <-- Data Structures & Algorithms
 │   ├── semester_4.md       <-- OS, Networks, Databases
 │   └── exploration_sprint.md <-- Summer 2
 │
 ├── 📁 03_SPECIALIZATION/   <-- Year 3 Curriculum
+│   ├── README.md           <-- Year 3 Overview
 │   ├── semester_5.md       <-- Choose Your Path
 │   ├── semester_6.md       <-- Deepening + Internship Prep
 │   └── internship_guide.md <-- Summer 3
 │
 ├── 📁 04_MASTERY/          <-- Year 4 Curriculum
+│   ├── README.md           <-- Year 4 Overview
 │   ├── semester_7.md       <-- FYP + Career Packaging
 │   ├── semester_8.md       <-- Completion + Transition
 │   ├── fyp_guidelines.md
@@ -180,8 +184,9 @@ By Year 4, you will not recognize the person you were in Year 1.
 **Ready to begin?**
 
 → Read [OATH.md](./OATH.md)  
-→ Start [Year 1 - GENESIS](./01_GENESIS)  
-→ Join the discussion in [Issues](https://github.com/yourusername/iron-protocol/issues)
+→ Start [Year 1 - GENESIS](./01_GENESIS/README.md)  
+→ View [Skills Matrix](./resources/skills_matrix.md)  
+→ Join the discussion in [Issues](https://github.com/essayyzed/iron-protocol/issues)
 
 ---
 
