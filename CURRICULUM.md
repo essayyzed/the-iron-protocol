@@ -1140,6 +1140,7 @@ Employers will check your GitHub. Make sure it shows:
 
 ### Programming Fundamentals
 - *Think Like a Programmer* by V. Anton Spraul
+- *Introduction to Computation and Programming Using Python (3rd ed.)* by John V. Guttag
 - *Clean Code* by Robert C. Martin
 - *The Pragmatic Programmer* by Andrew Hunt & David Thomas
 
@@ -1194,6 +1195,7 @@ Employers will check your GitHub. Make sure it shows:
 ## 📚 Free Online Courses
 
 - **[CS50x](https://cs50.harvard.edu/x/)** - Harvard's Introduction to Computer Science
+- **[Introduction to Computation and Programming Using Python (Full Course)](https://youtu.be/KhouhgeQ2oo?si=F0WysbpzhBV_Akdl)** - Python fundamentals and computational thinking
 - **[MIT Missing Semester](https://missing.csail.mit.edu/)** - Command-line, Git, Vim, etc.
 - **[The Odin Project](https://www.theodinproject.com/)** - Full-stack web development
 - **[freeCodeCamp](https://www.freecodecamp.org/)** - Web development certifications

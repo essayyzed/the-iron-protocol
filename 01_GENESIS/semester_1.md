@@ -210,10 +210,12 @@ Your first projects will be ugly. That's okay. Ship them anyway.
 
 ### Books
 - *Think Like a Programmer* by V. Anton Spraul
+- *Introduction to Computation and Programming Using Python (3rd ed.)* by John V. Guttag
 - *The Linux Command Line* by William Shotts (free online)
 
 ### Courses
 - [CS50x (Harvard)](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) – Introduction to Computer Science
+- [Introduction to Computation and Programming Using Python (Full Course)](https://youtu.be/KhouhgeQ2oo?si=F0WysbpzhBV_Akdl)
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
 - [Recluze YouTube Channel](https://www.youtube.com/@recluze/playlists) – CS Fundamentals
 
