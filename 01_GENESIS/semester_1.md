@@ -86,9 +86,7 @@ man         # manual pages
 #### 📺 **Watch Educational Content (2-3 videos/week)**
 
 **Recommended Playlists:**
-- [How to Approach Learning](https://www.youtube.com/@recluze/playlists) - Recluze
-- [Introduction to Computing](https://www.youtube.com/@recluze/playlists) - Recluze
-- [Programming Fundamentals](https://www.youtube.com/@recluze/playlists) - Recluze
+- [Introduction to Computing]([https://www.youtube.com/@recluze/playlists](https://www.youtube.com/watch?v=rms6Dv3n6d0&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)) - Recluze
 - [CS50 - Introduction to Computer Science](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - Harvard
 
 **Rule:** For every 1 hour watched, code for 3 hours.
@@ -215,13 +213,8 @@ Your first projects will be ugly. That's okay. Ship them anyway.
 
 ### Courses
 - [CS50x (Harvard)](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) – Introduction to Computer Science
-- [Introduction to Computation and Programming Using Python (Full Course)](https://youtu.be/KhouhgeQ2oo?si=F0WysbpzhBV_Akdl)
+- [Beyond Basic Programming - Intermediate Python  (Full Course)](https://youtu.be/KhouhgeQ2oo?si=F0WysbpzhBV_Akdl)
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
-- [Recluze YouTube Channel](https://www.youtube.com/@recluze/playlists) – CS Fundamentals
-
-### Practice
-- [LeetCode Easy](https://leetcode.com/) – Start with simple problems
-- [HackerRank](https://www.hackerrank.com/) – Programming basics
 
 ---
 
