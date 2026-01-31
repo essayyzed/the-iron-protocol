@@ -987,13 +987,6 @@ Poor schema design = performance problems and bugs later.
 
 ---
 
-## 🔗 Reinforcement (Optional)
-
-- [The ONE Resource for Becoming a SysAdmin/DevOps Engineer](https://www.youtube.com/watch?v=Af7d8pYpNsY) — comprehensive roadmap for systems knowledge.
-- [The Complete Roadmap to Becoming a SysAdmin/DevOps Engineer - Part 2](https://www.youtube.com/watch?v=SnK8xfKXUtI) — practical career advice and skill development.
-
----
-
 ## 🎯 Success Metric
 
 **You know you're ready for Summer Break 2 when:**
