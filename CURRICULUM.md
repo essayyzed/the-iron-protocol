@@ -160,8 +160,9 @@ Follow these through the semester.
 #### Weekly Tasks
 
 - Watch 1–2 videos from:
-- "How to Approach Learning" playlist.
-- "Introduction to Computing" playlist.
+- ["How to Approach Learning" playlist](https://www.youtube.com/@recluze/playlists) - Recluze
+- ["Introduction to Computing" playlist](https://www.youtube.com/@recluze/playlists) - Recluze
+- [CS50 lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - Harvard
 
 - Write at least **1 good question per week** (following the protocol: Write → Narrow → Search → Ask).
 - Join or form a **goal-oriented study group** (3–5 students with similar ambitions).
@@ -1073,3 +1074,175 @@ Employers will check your GitHub. Make sure it shows:
 - Prepare stories for common questions ("Tell me about a time you failed", "Describe a conflict in a team").
 - Use the **STAR method** (Situation, Task, Action, Result).
 - Research the company before the interview.
+
+---
+
+# 🔗 Resources & Links
+
+## 🎬 YouTube Channels
+
+### Computer Science Fundamentals
+- **[Recluze](https://www.youtube.com/@recluze/playlists)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
+- **[CS50](https://www.youtube.com/@cs50)** - Harvard's Computer Science courses
+- **[MIT OpenCourseWare](https://www.youtube.com/@mitocw)** - Advanced CS topics
+- **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Algorithms explained clearly
+
+### Web Development
+- **[Traversy Media](https://www.youtube.com/@TraversyMedia)** - Web development crash courses
+- **[Fireship](https://www.youtube.com/@Fireship)** - Modern web technologies in minutes
+- **[The Net Ninja](https://www.youtube.com/@NetNinja)** - Full-stack tutorials
+- **[freeCodeCamp](https://www.youtube.com/@freecodecamp)** - Full courses
+
+### DevOps & System Administration
+- **[TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)** - Docker, Kubernetes, DevOps
+- **[NetworkChuck](https://www.youtube.com/@NetworkChuck)** - Linux, networking, servers
+- **[LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV)** - Linux tutorials
+
+### Data Structures & Algorithms
+- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze/playlists)** - Data Structures & Algorithms
+- **[NeetCode](https://www.youtube.com/@NeetCode)** - LeetCode solutions explained
+- **[WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)** - Graph algorithms, data structures
+
+---
+
+## 📚 Free Online Courses
+
+- **[CS50x](https://cs50.harvard.edu/x/)** - Harvard's Introduction to Computer Science
+- **[MIT Missing Semester](https://missing.csail.mit.edu/)** - Command-line, Git, Vim, etc.
+- **[The Odin Project](https://www.theodinproject.com/)** - Full-stack web development
+- **[freeCodeCamp](https://www.freecodecamp.org/)** - Web development certifications
+- **[Coursera](https://www.coursera.org/)** - University courses (audit for free)
+- **[edX](https://www.edx.org/)** - MIT, Harvard courses
+
+---
+
+## 🛠️ Practice Platforms
+
+### Coding Challenges
+- **[LeetCode](https://leetcode.com/)** - Interview preparation
+- **[HackerRank](https://www.hackerrank.com/)** - Coding practice
+- **[Codeforces](https://codeforces.com/)** - Competitive programming
+- **[CodeChef](https://www.codechef.com/)** - Programming contests
+
+### Frontend Practice
+- **[Frontend Mentor](https://www.frontendmentor.io/)** - Real-world UI challenges
+- **[CSS Battle](https://cssbattle.dev/)** - CSS challenges
+- **[JavaScript30](https://javascript30.com/)** - 30 vanilla JS projects
+
+### Cybersecurity
+- **[HackTheBox](https://www.hackthebox.com/)** - Penetration testing practice
+- **[TryHackMe](https://tryhackme.com/)** - Learn cybersecurity
+- **[OverTheWire](https://overthewire.org/)** - Wargames
+
+---
+
+## 📖 Recommended Books
+
+### Programming Fundamentals
+- *Think Like a Programmer* by V. Anton Spraul
+- *Clean Code* by Robert C. Martin
+- *The Pragmatic Programmer* by Andrew Hunt & David Thomas
+
+### Algorithms & Data Structures
+- *Introduction to Algorithms* (CLRS)
+- *Grokking Algorithms* by Aditya Bhargava
+- *Algorithm Design Manual* by Steven Skiena
+
+### Systems
+- *The Linux Command Line* by William Shotts (free online)
+- *Operating Systems: Three Easy Pieces* (free online)
+- *Computer Networking: A Top-Down Approach* by Kurose & Ross
+
+### Career
+- *Cracking the Coding Interview* by Gayle Laakmann McDowell
+- *System Design Interview* by Alex Xu
+
+---
+
+*This roadmap is continuously evolving. Contributions welcome!*
+
+---
+
+# 🔗 Resources & Links
+
+## 🎬 YouTube Channels
+
+### Computer Science Fundamentals
+- **[Recluze](https://www.youtube.com/@recluze/playlists)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
+- **[CS50](https://www.youtube.com/@cs50)** - Harvard's Computer Science courses
+- **[MIT OpenCourseWare](https://www.youtube.com/@mitocw)** - Advanced CS topics
+- **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Algorithms explained clearly
+
+### Web Development
+- **[Traversy Media](https://www.youtube.com/@TraversyMedia)** - Web development crash courses
+- **[Fireship](https://www.youtube.com/@Fireship)** - Modern web technologies in minutes
+- **[The Net Ninja](https://www.youtube.com/@NetNinja)** - Full-stack tutorials
+- **[freeCodeCamp](https://www.youtube.com/@freecodecamp)** - Full courses
+
+### DevOps & System Administration
+- **[TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)** - Docker, Kubernetes, DevOps
+- **[NetworkChuck](https://www.youtube.com/@NetworkChuck)** - Linux, networking, servers
+- **[LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV)** - Linux tutorials
+
+### Data Structures & Algorithms
+- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze/playlists)** - Data Structures & Algorithms
+- **[NeetCode](https://www.youtube.com/@NeetCode)** - LeetCode solutions explained
+- **[WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)** - Graph algorithms, data structures
+
+---
+
+## 📚 Free Online Courses
+
+- **[CS50x](https://cs50.harvard.edu/x/)** - Harvard's Introduction to Computer Science
+- **[MIT Missing Semester](https://missing.csail.mit.edu/)** - Command-line, Git, Vim, etc.
+- **[The Odin Project](https://www.theodinproject.com/)** - Full-stack web development
+- **[freeCodeCamp](https://www.freecodecamp.org/)** - Web development certifications
+- **[Coursera](https://www.coursera.org/)** - University courses (audit for free)
+- **[edX](https://www.edx.org/)** - MIT, Harvard courses
+
+---
+
+## 🛠️ Practice Platforms
+
+### Coding Challenges
+- **[LeetCode](https://leetcode.com/)** - Interview preparation
+- **[HackerRank](https://www.hackerrank.com/)** - Coding practice
+- **[Codeforces](https://codeforces.com/)** - Competitive programming
+- **[CodeChef](https://www.codechef.com/)** - Programming contests
+
+### Frontend Practice
+- **[Frontend Mentor](https://www.frontendmentor.io/)** - Real-world UI challenges
+- **[CSS Battle](https://cssbattle.dev/)** - CSS challenges
+- **[JavaScript30](https://javascript30.com/)** - 30 vanilla JS projects
+
+### Cybersecurity
+- **[HackTheBox](https://www.hackthebox.com/)** - Penetration testing practice
+- **[TryHackMe](https://tryhackme.com/)** - Learn cybersecurity
+- **[OverTheWire](https://overthewire.org/)** - Wargames
+
+---
+
+## 📖 Recommended Books
+
+### Programming Fundamentals
+- *Think Like a Programmer* by V. Anton Spraul
+- *Clean Code* by Robert C. Martin
+- *The Pragmatic Programmer* by Andrew Hunt & David Thomas
+
+### Algorithms & Data Structures
+- *Introduction to Algorithms* (CLRS)
+- *Grokking Algorithms* by Aditya Bhargava
+- *Algorithm Design Manual* by Steven Skiena
+
+### Systems
+- *The Linux Command Line* by William Shotts (free online)
+- *Operating Systems: Three Easy Pieces* (free online)
+- *Computer Networking: A Top-Down Approach* by Kurose & Ross
+
+### Career
+- *Cracking the Coding Interview* by Gayle Laakmann McDowell
+- *System Design Interview* by Alex Xu
+
+---
+
+*This roadmap is continuously evolving. Contributions welcome!*

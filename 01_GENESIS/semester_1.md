@@ -86,9 +86,10 @@ man         # manual pages
 #### 📺 **Watch Educational Content (2-3 videos/week)**
 
 **Recommended Playlists:**
-- "How to Approach Learning" series
-- "Introduction to Computing" fundamentals
-- Any CS50 lectures (Harvard)
+- [How to Approach Learning](https://www.youtube.com/@recluze/playlists) - Recluze
+- [Introduction to Computing](https://www.youtube.com/@recluze/playlists) - Recluze
+- [Programming Fundamentals](https://www.youtube.com/@recluze/playlists) - Recluze
+- [CS50 - Introduction to Computer Science](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - Harvard
 
 **Rule:** For every 1 hour watched, code for 3 hours.
 
@@ -212,8 +213,9 @@ Your first projects will be ugly. That's okay. Ship them anyway.
 - *The Linux Command Line* by William Shotts (free online)
 
 ### Courses
-- CS50x (Harvard) – Introduction to Computer Science
-- MIT Missing Semester
+- [CS50x (Harvard)](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) – Introduction to Computer Science
+- [MIT Missing Semester](https://missing.csail.mit.edu/)
+- [Recluze YouTube Channel](https://www.youtube.com/@recluze/playlists) – CS Fundamentals
 
 ### Practice
 - [LeetCode Easy](https://leetcode.com/) – Start with simple problems

@@ -259,9 +259,10 @@ Don't watch 10 tutorials on the same topic. Pick one, build, then iterate.
 ## 📖 Recommended Resources
 
 ### Courses
-- **freeCodeCamp** – Responsive Web Design + JavaScript
-- **The Odin Project** – Full-Stack JavaScript path
-- **Traversy Media** (YouTube) – Crash courses
+- **[freeCodeCamp](https://www.freecodecamp.org/)** – Responsive Web Design + JavaScript
+- **[The Odin Project](https://www.theodinproject.com/)** – Full-Stack JavaScript path
+- **[Traversy Media](https://www.youtube.com/@TraversyMedia)** (YouTube) – Crash courses
+- **[Recluze - Web Development](https://www.youtube.com/@recluze/playlists)** – Web fundamentals
 
 ### Documentation
 - [MDN Web Docs](https://developer.mozilla.org/) – The web development bible

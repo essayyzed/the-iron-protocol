@@ -475,15 +475,17 @@ By the end, you should have:
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
 - [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 - [Docker Official Tutorial](https://docs.docker.com/get-started/)
+- [Recluze - System Administration](https://www.youtube.com/@recluze/playlists)
 
 ### Books
 - *The Linux Command Line* by William Shotts
 - *Docker Deep Dive* by Nigel Poulton
 
 ### YouTube
-- TechWorld with Nana (Docker & DevOps)
-- NetworkChuck (Linux & Servers)
-- LearnLinuxTV
+- [Recluze](https://www.youtube.com/@recluze) – DevOps & System Administration
+- [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) – Docker & DevOps
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck) – Linux & Servers
+- [LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV) – Linux tutorials
 
 ---
 
