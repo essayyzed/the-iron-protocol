@@ -217,13 +217,6 @@ Keep a journal for each domain:
 
 ---
 
-## 🔗 Reinforcement (Optional)
-
-- [Becoming a Software Engineer Specializing in a Particular Domain](https://www.youtube.com/watch?v=t4eQNGJEFxU) — understanding expertise depth and choosing specializations wisely.
-- [The Danger of Using AI Tools Like ChatGPT & GitHub Copilot](https://www.youtube.com/watch?v=yhyx8OxPJos) — building real skills before relying on AI assistance.
-
----
-
 ## 🎯 Success Metric
 
 **You're ready for Year 3 when:**
