@@ -712,6 +712,8 @@ Understand **why** arrays are O(1) access but linked lists aren't.
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego
 - [Algorithms, Part I & II](https://www.coursera.org/learn/algorithms-part1) - Princeton
 - [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
+- [Data Structures with Python](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, detailed with Q&A)
+- [Computer Organization and Assembly Language](https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, live class recordings)
 
 ### Problem Sets
 - [NeetCode 150](https://neetcode.io/) - curated by pattern

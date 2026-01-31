@@ -51,6 +51,11 @@
 **Resources:**
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/)
 - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Machine Learning Full Roadmap | Learn ML the Right Way!](https://www.youtube.com/watch?v=L9TBynQzlq4) - Recluze (7 min)
+  - Foundational concepts needed: probability, data structures, algorithms, OS
+  - Two important rules for learning AI/ML
+  - System administration and ML in industry
+- [Advanced Machine Learning](https://www.youtube.com/watch?v=YNT3T-jJoLY&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, starts from scratch)
 
 ---
 

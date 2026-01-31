@@ -475,7 +475,10 @@ By the end, you should have:
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
 - [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 - [Docker Official Tutorial](https://docs.docker.com/get-started/)
-- [Recluze - System Administration](https://youtu.be/-42b7XFimnM?si=KtgeeD13ksftJu_F)
+- [System Administration Plan - BS CS/SE/IT - Part 3 (First Summer Break)](https://www.youtube.com/watch?v=-42b7XFimnM) - Recluze (20 min)
+  - Complete roadmap for summer sysadmin learning
+  - Why scale is important
+  - SSH, cloud computing, and practical projects
 
 ### Books
 - *The Linux Command Line* by William Shotts

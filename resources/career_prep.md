@@ -361,6 +361,33 @@ Employers will Google you. Make sure they find good things.
 
 ---
 
+## 📺 Recommended Career Videos
+
+### Early Career Planning
+- [Career Counselling for CS/SE Graduating Students - Part 1](https://www.youtube.com/watch?v=wA1s9tE62bY) - Recluze (19 min)
+  - How to earn money and avoid boredom in your career
+  - Making a personal website and portfolio
+  - What to showcase and how to present your work
+- [Career Counselling for CS/SE Graduating Students - Part 2](https://www.youtube.com/watch?v=dAAQGbkQnHM) - Recluze (27 min)
+  - MS immediately after BS? Timing considerations
+  - First job salary expectations (take what you get!)
+  - Depth vs breadth of knowledge trade-offs
+  - Freelancing as a career path
+- [Career Counselling for CS/SE Graduating Students - Part 3](https://www.youtube.com/watch?v=cUbacq2p2OU) - Recluze (21 min)
+  - Software quality assurance and testing careers
+  - System administration career path
+  - Essential skills for CS/SE graduates
+  - Why a website is more important than LinkedIn
+
+### Software Engineering Skills
+- [Gaining Software Engineering Expertise Quickly](https://www.youtube.com/watch?v=p-3qGtv1-m0) - Recluze (9 min)
+  - Book recommendation: "Code Complete"
+  - Difference between fresher and experienced engineer
+  - Learning from others' mistakes
+  - Best practices, abstractions, and exception handling
+
+---
+
 ## ✅ Career Prep Checklist
 
 - [ ] CV (1-2 pages, value-focused, quantified)

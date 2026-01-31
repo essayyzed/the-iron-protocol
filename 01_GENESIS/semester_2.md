@@ -28,6 +28,13 @@
 
 Dedicate **2–2.5 hours per day** to web development alongside your coursework.
 
+**📺 Essential Viewing:**
+- [Super Charge Semester 2 in CS/SE/IT with Web Development](https://www.youtube.com/watch?v=FN6mo3nTDes) - Recluze (18 min)
+  - Why web dev early in your degree
+  - Client-side vs server-side topics
+  - Study approach for web technologies
+- [Yes, you NEED to study web development](https://www.youtube.com/watch?v=kdT_k6pyJu8) - Recluze (6 min)
+
 ### Phase 1: Frontend Basics (Weeks 1–4)
 
 #### Week 1-2: HTML
@@ -287,6 +294,9 @@ Don't watch 10 tutorials on the same topic. Pick one, build, then iterate.
 - **[freeCodeCamp](https://www.freecodecamp.org/)** – Responsive Web Design + JavaScript
 - **[The Odin Project](https://www.theodinproject.com/)** – Full-Stack JavaScript path
 - **[Traversy Media](https://www.youtube.com/@TraversyMedia)** (YouTube) – Crash courses
+- **[OOP with C++](https://www.youtube.com/watch?v=LIuPZurb1_w&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze (Urdu, if taking OOP this semester)
+  - Data types, functions, prototypes, classes, inheritance
+  - Live class recordings with Q&A sessions
 
 ### Documentation
 

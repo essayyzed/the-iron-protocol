@@ -87,7 +87,15 @@ man         # manual pages
 
 **Recommended Playlists:**
 - [Introduction to Computing](https://www.youtube.com/watch?v=rms6Dv3n6d0&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze
+- [How to Approach Learning](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rKuL5CILi8CQ35UDFbWimbR) - Recluze (27 videos)
 - [CS50 - Introduction to Computer Science](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - Harvard
+
+**Must-Watch from "How to Approach Learning":**
+1. [How to Use the Channel](https://www.youtube.com/watch?v=Tyf1a-mdwJI) - Navigation guide for Recluze content
+2. [BS in CS/SE/AI/DS/etc. -- Things to do in first semester!](https://www.youtube.com/watch?v=rms6Dv3n6d0)
+3. [Easily Remember Everything You Learn](https://www.youtube.com/watch?v=PPA6hJuvwKg) - Memory techniques
+4. [Avoid this One Habit to Boost Your Learning](https://www.youtube.com/watch?v=L2UVlsFPjTA)
+5. [Boost Your BS in CS/SE/IT - Part 1 Foundations](https://www.youtube.com/watch?v=J8MDXrGqxXM)
 
 **Rule:** For every 1 hour watched, code for 3 hours.
 

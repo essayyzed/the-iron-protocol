@@ -976,6 +976,9 @@ Poor schema design = performance problems and bugs later.
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/) - includes OS and networks
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - [SQL Tutorial - Full Database Course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [Operating Systems](https://www.youtube.com/watch?v=Yo2MASx_Kko&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, live class with Q&A)
+  - OS history, processes, threads, memory management
+  - Detailed explanations with practical examples
 
 ### Practice
 - [SQLBolt](https://sqlbolt.com/) - interactive SQL lessons
