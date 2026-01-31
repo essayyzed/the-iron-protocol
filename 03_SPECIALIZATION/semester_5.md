@@ -301,7 +301,6 @@ Define MVP clearly and ship it. Add features after launch.
 
 ## 🔗 Reinforcement (Optional)
 
-- [Becoming a Software Engineer Specializing in a Particular Domain](https://www.youtube.com/watch?v=t4eQNGJEFxU) — understanding expertise depth and choosing specializations wisely.
 - [Career Counselling for CS/SE Graduating Students – Part 1](https://www.youtube.com/watch?v=wA1s9tE62bY) — career direction and portfolio basics.
 
 ---
