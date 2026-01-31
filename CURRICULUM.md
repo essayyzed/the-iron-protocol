@@ -173,8 +173,8 @@ Follow these through the semester.
 #### Weekly Tasks
 
 - Watch 1–2 videos from:
-- ["How to Approach Learning" playlist](https://www.youtube.com/@recluze/playlists) - Recluze
-- ["Introduction to Computing" playlist](https://www.youtube.com/@recluze/playlists) - Recluze
+- ["How to Approach Learning" playlist](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rKuL5CILi8CQ35UDFbWimbR) - Recluze
+- ["Introduction to Computing" playlist](https://www.youtube.com/watch?v=rms6Dv3n6d0&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze
 - [CS50 lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - Harvard
 
 - Write at least **1 good question per week** (following the protocol: Write → Narrow → Search → Ask).
@@ -1096,7 +1096,7 @@ Employers will check your GitHub. Make sure it shows:
 ## 🎬 YouTube Channels
 
 ### Computer Science Fundamentals
-- **[Recluze](https://www.youtube.com/@recluze/playlists)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
+- **[Recluze](https://www.youtube.com/@recluze)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
 - **[CS50](https://www.youtube.com/@cs50)** - Harvard's Computer Science courses
 - **[MIT OpenCourseWare](https://www.youtube.com/@mitocw)** - Advanced CS topics
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Algorithms explained clearly
@@ -1113,7 +1113,7 @@ Employers will check your GitHub. Make sure it shows:
 - **[LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV)** - Linux tutorials
 
 ### Data Structures & Algorithms
-- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze/playlists)** - Data Structures & Algorithms
+- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze)** - Data Structures & Algorithms
 - **[NeetCode](https://www.youtube.com/@NeetCode)** - LeetCode solutions explained
 - **[WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)** - Graph algorithms, data structures
 
@@ -1183,7 +1183,7 @@ Employers will check your GitHub. Make sure it shows:
 ## 🎬 YouTube Channels
 
 ### Computer Science Fundamentals
-- **[Recluze](https://www.youtube.com/@recluze/playlists)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
+- **[Recluze](https://www.youtube.com/@recluze)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
 - **[CS50](https://www.youtube.com/@cs50)** - Harvard's Computer Science courses
 - **[MIT OpenCourseWare](https://www.youtube.com/@mitocw)** - Advanced CS topics
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Algorithms explained clearly
@@ -1200,7 +1200,7 @@ Employers will check your GitHub. Make sure it shows:
 - **[LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV)** - Linux tutorials
 
 ### Data Structures & Algorithms
-- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze/playlists)** - Data Structures & Algorithms
+- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze)** - Data Structures & Algorithms
 - **[NeetCode](https://www.youtube.com/@NeetCode)** - LeetCode solutions explained
 - **[WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)** - Graph algorithms, data structures
 

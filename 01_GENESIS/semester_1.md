@@ -86,7 +86,7 @@ man         # manual pages
 #### 📺 **Watch Educational Content (2-3 videos/week)**
 
 **Recommended Playlists:**
-- [Introduction to Computing]([https://www.youtube.com/@recluze/playlists](https://www.youtube.com/watch?v=rms6Dv3n6d0&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)) - Recluze
+- [Introduction to Computing](https://www.youtube.com/watch?v=rms6Dv3n6d0&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze
 - [CS50 - Introduction to Computer Science](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - Harvard
 
 **Rule:** For every 1 hour watched, code for 3 hours.

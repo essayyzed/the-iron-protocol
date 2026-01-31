@@ -475,7 +475,7 @@ By the end, you should have:
 - [MIT Missing Semester](https://missing.csail.mit.edu/)
 - [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials)
 - [Docker Official Tutorial](https://docs.docker.com/get-started/)
-- [Recluze - System Administration]([https://www.youtube.com/@recluze/playlists](https://youtu.be/-42b7XFimnM?si=KtgeeD13ksftJu_F))
+- [Recluze - System Administration](https://youtu.be/-42b7XFimnM?si=KtgeeD13ksftJu_F)
 
 ### Books
 - *The Linux Command Line* by William Shotts
