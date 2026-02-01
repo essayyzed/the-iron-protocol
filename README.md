@@ -13,11 +13,18 @@
 
 ## 📖 Abstract
 
-**The Iron Protocol** is a comprehensive, semester-by-semester execution plan for Computer Science, Software Engineering, and IT students. 
+**The Iron Protocol** is a comprehensive, semester-by-semester execution plan for Computer Science, Software Engineering, and IT students **in Pakistan**. 
 
 It rejects the modern trend of "Vibe Coding" and passive tutorial consumption. Instead, it enforces a strict regimen of **Fundamentals First**, **Linux Literacy**, and **Systems Thinking**.
 
-**Goal:** To graduate not just with a degree, but as an industry-ready engineer who can build, deploy, and scale complex systems.
+**Goal:** To graduate not just with a degree, but as an industry-ready engineer who can build, deploy, and scale complex systems—within Pakistan's unique educational and professional landscape.
+
+**Pakistan-Specific Adaptations:**
+- Designed for environments with limited formal internship programs
+- Emphasizes FYP (Final Year Project) as primary credential
+- Values core skills + portfolio quality over company brand names
+- Provides guidance on freelancing while noting its cultural stigma in formal contexts
+- Targets Pakistani tech companies and international remote opportunities
 
 ---
 
