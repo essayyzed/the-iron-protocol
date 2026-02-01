@@ -535,7 +535,6 @@ First impression is often a Google search. Make it count.
 
 ## 🔗 Reinforcement (Optional)
 
-- [Final Year Project (FYP): Ultimate Guide, Useful Tips & Suggestions](https://www.youtube.com/watch?v=5lJsRLWKBWc) — practical advice for FYP success.
 - [Career Counselling for CS/SE Graduating Students – Part 1](https://www.youtube.com/watch?v=wA1s9tE62bY) — career direction and portfolio basics.
 
 ---
