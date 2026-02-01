@@ -712,8 +712,12 @@ Understand **why** arrays are O(1) access but linked lists aren't.
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego
 - [Algorithms, Part I & II](https://www.coursera.org/learn/algorithms-part1) - Princeton
 - [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
-- [Data Structures with Python](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, detailed with Q&A)
-- [Computer Organization and Assembly Language](https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, live class recordings)
+- **[Data Structures with Python - Complete Course](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐ (Urdu, live lectures with Q&A, detailed)
+- **[Computer Organization and Assembly Language - Complete Course](https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐⭐⭐⭐⭐ (Urdu)
+  - 30+ lectures (45-75 min each), most popular course (82K+ views)
+  - Live class recordings with student Q&A
+  - Architecture, RAM, cache, assembly, memory, interrupts, subroutines, stack
+  - **Highly recommended**: Deepens systems understanding, crucial for OS
 
 ### Problem Sets
 - [NeetCode 150](https://neetcode.io/) - curated by pattern

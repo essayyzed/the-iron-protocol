@@ -974,11 +974,20 @@ Poor schema design = performance problems and bugs later.
 
 ### Courses
 - [CS50's Introduction to Computer Science](https://cs50.harvard.edu/) - includes OS and networks
+- **[Operating Systems - Complete Course](https://www.youtube.com/watch?v=Yo2MASx_Kko&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐⭐⭐⭐⭐ (Urdu)
+  - Live lectures (1+ hour each) with Q&A
+  - OS history, processes, threads, memory management, file systems
+  - Includes system administration roadmap
+- **[Computer Networks Basics - Complete Course](https://www.youtube.com/watch?v=hV34f4GLMxI&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐⭐⭐⭐⭐ (English)
+  - 8+ lectures with theory + Cisco Packet Tracer practicals
+  - OSI model, TCP/UDP/QUIC, routing, IPv6, Ethernet, switches
+  - Hands-on labs included
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - [SQL Tutorial - Full Database Course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-- [Operating Systems](https://www.youtube.com/watch?v=Yo2MASx_Kko&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze (Urdu, live class with Q&A)
-  - OS history, processes, threads, memory management
-  - Detailed explanations with practical examples
+- **[Probability and Statistics for CS - Complete Course](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐ (Urdu, 25+ lectures)
+  - Essential for ML/AI track
+  - Data visualization, distributions, entropy, KL-divergence
+  - Watch if planning specialization in ML/AI
 
 ### Practice
 - [SQLBolt](https://sqlbolt.com/) - interactive SQL lessons
