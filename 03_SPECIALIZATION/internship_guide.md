@@ -4,6 +4,85 @@
 
 ---
 
+## 🤔 The Critical Question: Internship or FYP Focus?
+
+**Common Dilemma:** "Should I do an internship this summer or focus on my Final Year Project?"
+
+### The Answer: Internship (Almost Always)
+
+**Here's why the timeline supports both:**
+
+1. **FYP Planning Happened in Semester 6** (if you followed the Protocol)
+   - You already selected domain, found supervisor, drafted proposal
+   - Summer Break 3 ≠ FYP planning time
+   - FYP execution happens in Year 4 (Semesters 7-8)
+
+2. **Summer = Prime Internship Window**
+   - Companies hire summer interns, not "FYP-focused" interns
+   - This is THE opportunity for professional experience
+   - FYP work happens during academic semesters, not summer
+
+3. **Recluze's Philosophy: "Don't Close Doors"**
+   - Fresh graduates should prioritize experience ("Take whatever pay when fresh")
+   - "Don't narrow down your expertise" too early
+   - Real-world experience teaches what projects can't
+
+### Decision Matrix
+
+| Your Situation | Recommendation | Reasoning |
+|:---------------|:---------------|:----------|
+| **0 internships** | TAKE ANY INTERNSHIP | Breaks resume barrier, 60-80% better interview rate |
+| **1 internship** | TAKE INTERNSHIP (if offered) | Compounds career capital, builds network |
+| **2+ internships + FAANG offer** | TAKE FAANG | No-brainer, career-defining |
+| **2+ internships + mediocre offer** | Consider building | You have credibility, can afford to focus |
+| **No internship offer** | Intensive Building (Track B) | Best alternative, don't waste summer |
+
+### What About My FYP?
+
+**Good News:** You're already prepared!
+
+- ✅ **Semester 6:** FYP domain selected, supervisor found, proposal drafted
+- ✅ **Summer Break 3:** Internship (or building if no offer)
+- ✅ **Semester 7:** FYP proposal finalized, implementation begins
+- ✅ **Semester 8:** FYP completion
+
+**If you're worried about FYP progress:**
+- Spend **2-3 hours/week** on preliminary research during internship
+- Read papers on weekends
+- Keep in touch with supervisor via email
+- Full FYP execution happens in Year 4, not summer
+
+### The Trap to Avoid
+
+❌ **"I'll skip internships to make my FYP perfect"**
+- FYPs are graded Pass/Good/Excellent
+- Internships open career doors (referrals, return offers, network)
+- A "Good" FYP + 2 internships > "Excellent" FYP + 0 internships
+
+✅ **"I'll pursue internship and plan FYP smartly"**
+- Internship experience might even inspire your FYP
+- Professional networks help with FYP (mentorship, resources)
+- Career capital compounds faster
+
+### Exception: The 10% Case
+
+**You CAN skip internship for FYP if:**
+- You have 2+ strong internships already (FAANG or equivalent)
+- Your FYP is research-oriented (paper publication potential)
+- You have external funding/grant for FYP work
+- Your FYP is a startup MVP with revenue potential
+
+**Even then:** A top company internship > FYP focus
+
+### Resources
+
+- [Career Counselling - Part 2](https://www.youtube.com/watch?v=dAAQGbkQnHM) - Recluze (27 min)
+  - "Take whatever pay when fresh" (5:00)
+  - "Don't close doors for yourself"
+- [Internship vs Independent Work Analysis](../resources/internship_vs_independent_work.md)
+
+---
+
 ## 🎯 Goals
 
 This summer follows two possible tracks:
