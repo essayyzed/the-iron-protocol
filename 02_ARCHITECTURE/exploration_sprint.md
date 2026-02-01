@@ -49,16 +49,16 @@
 5. Test with your own images
 
 **Resources:**
-- [Machine Learning Full Roadmap | Learn ML the Right Way!](https://www.youtube.com/watch?v=L9TBynQzlq4) - Recluze (7 min)
+- [Machine Learning Full Roadmap | Learn ML the Right Way!](https://www.youtube.com/watch?v=L9TBynQzlq4) (7 min)
   - Foundational concepts needed: probability, data structures, algorithms, OS
   - Two important rules for learning AI/ML  
   - System administration and ML in industry
-- **[Numerical Computing - Complete Course](https://www.youtube.com/watch?v=e6P3JsLsbUc&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐⭐⭐⭐⭐ (English, 21+ lectures)
-  - **WATCH THIS FIRST** before ML course
+- [Numerical Computing - Complete Course](https://www.youtube.com/watch?v=e6P3JsLsbUc&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) (English, 21+ lectures)
+  - Watch this before ML course
   - Linear algebra for ML: vectors, matrices, tensors, NumPy
   - Gradient descent - "Most important algo in ML"
   - Optimization techniques (hill climbing, curve fitting)
-- **[Machine Learning - Complete Course](https://www.youtube.com/watch?v=YNT3T-jJoLY&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym)** - Recluze ⭐⭐⭐⭐ (Urdu)
+- [Machine Learning - Complete Course](https://www.youtube.com/watch?v=YNT3T-jJoLY&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) (Urdu)
   - Starts from scratch with practical demos (79+ min lectures)
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/)
 - [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
