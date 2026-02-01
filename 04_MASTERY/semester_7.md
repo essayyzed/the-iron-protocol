@@ -535,6 +535,10 @@ First impression is often a Google search. Make it count.
 
 ## 🔗 Reinforcement (Optional)
 
+- [How to Start your Final Year Project](https://www.youtube.com/watch?v=L6yGg01Wsj4) - Recluze (12 min)
+  - Purpose of FYP and how to select domain/area
+  - Where to find topics and handle feasibility issues
+  - Time constraints and committing to your idea
 - [Career Counselling for CS/SE Graduating Students – Part 1](https://www.youtube.com/watch?v=wA1s9tE62bY) — career direction and portfolio basics.
 
 ---
