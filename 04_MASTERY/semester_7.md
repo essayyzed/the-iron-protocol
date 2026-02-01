@@ -1,16 +1,16 @@
-# 📌 Semester 7 – FYP Planning & Career Packaging
+# 📌 Semester 7 – FYP Execution & Career Packaging
 
-> **The Positioning Phase**: Plan your Final Year Project and package yourself for the job market
+> **The Execution Phase**: Finalize and begin executing your Final Year Project while packaging yourself for the job market
 
 ---
 
 ## 🎯 Goals
 
-- **Select and plan** your Final Year Project (FYP)
+- **Finalize FYP proposal** and begin implementation (idea already selected in Semester 6)
+- **Execute FYP Phase 1** (research, design, core development)
 - **Package your portfolio** professionally
 - Begin **job/MS applications** (early applications)
 - Build **professional narrative** and personal brand
-- **Prepare for graduation** and next steps
 
 ---
 
@@ -23,19 +23,23 @@
 
 ---
 
-## 🎓 Final Year Project (FYP) Selection & Planning
+## 🎓 Final Year Project (FYP) Execution
 
-### Weeks 1-4: Project Selection
+**Important:** You should have already selected your FYP domain and supervisor in Semester 6. This semester is about **finalization and execution**.
 
-**Criteria for a Strong FYP:**
+### Weeks 1-4: Proposal Finalization & Approval
 
-1. **Technical Depth**: Demonstrates advanced skills
-2. **Novelty**: Not just another CRUD app
-3. **Scope**: Achievable in 6-8 months
-4. **Impact**: Solves a real problem
-5. **Portfolio-Worthy**: Impressive to employers
+**If you didn't plan in Semester 6:**
+⚠️ You're behind schedule. Refer to [Semester 6 FYP Planning section](../03_SPECIALIZATION/semester_6.md) and complete it **immediately** (Weeks 1-2).
 
-**Project Categories:**
+**Tasks:**
+- [ ] Submit formal proposal to supervisor
+- [ ] Get proposal approved by department
+- [ ] Finalize project scope and timeline
+- [ ] Set up development environment
+- [ ] Create project repository (GitHub/GitLab)
+
+**Proposal Components (if not done):**
 
 ### Research-Oriented Projects
 **Best for:** PhD/MS aspirants

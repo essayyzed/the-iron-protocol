@@ -445,6 +445,134 @@ Rejection is part of the process. Learn and iterate.
 
 ---
 
+## 🎓 Final Year Project (FYP) Planning Sprint
+
+**Why now?** Your FYP proposal is likely due in **Semester 7 (Week 1-4)**. Planning now gives you:
+- Time to refine your idea
+- Summer Break 3 for preliminary work/research
+- First pick of supervisors before they're overbooked
+- Reduced stress in Year 4
+
+### Weeks 11-12: FYP Domain Selection
+
+**Step 1: Choose Your Domain**
+
+Based on your Semester 5 specialization:
+- Web/Backend → Real-time systems, scalability, microservices
+- ML/AI → Computer vision, NLP, recommendation systems
+- Security → Penetration testing tools, cryptography, secure systems
+- Mobile → Cross-platform frameworks, native performance
+- Data → Analytics dashboards, ETL pipelines, data visualization
+
+**Step 2: Problem Identification**
+
+```markdown
+## FYP Ideas Template
+
+### Idea 1: [Project Name]
+**Problem:** What problem does this solve?
+**Users:** Who will use this?
+**Novelty:** What makes it different from existing solutions?
+**Feasibility:** Can I build this in 6-8 months?
+**Tech Stack:** What technologies will I use?
+**Learning:** What will I learn from this?
+```
+
+**Generate 3-5 ideas**, then narrow to 1-2 strongest.
+
+### Weeks 13-14: Supervisor Search & Proposal Draft
+
+**Finding a Supervisor:**
+
+1. **Research faculty interests:**
+   - Check department website for research areas
+   - Read recent publications
+   - Look at past FYPs they supervised
+
+2. **Make the approach:**
+   ```
+   Subject: FYP Supervision Request - [Your Name]
+   
+   Dear Dr. [Name],
+   
+   I am a [Year] student specializing in [area] and planning my FYP.
+   I'm interested in [specific topic related to their research].
+   
+   My idea: [2-3 sentence pitch]
+   
+   Would you be available to supervise? I have:
+   - [Relevant coursework]
+   - [Relevant projects/skills]
+   - [Any preliminary research done]
+   
+   I can meet at your convenience to discuss.
+   
+   Best regards,
+   [Your Name]
+   ```
+
+3. **Have 2-3 backup options** in case first choice is unavailable.
+
+**Preliminary Proposal (1-2 pages):**
+
+```markdown
+# FYP Proposal Draft
+
+## Title
+[Project Name]
+
+## Problem Statement
+What problem exists? Who faces it? Why does it matter?
+
+## Objectives
+1. Primary objective
+2. Secondary objective
+3. Stretch goal (optional)
+
+## Proposed Solution
+High-level approach to solving the problem.
+
+## Technology Stack
+- Frontend: [if applicable]
+- Backend: [if applicable]
+- Database: [if applicable]
+- ML/AI tools: [if applicable]
+- Deployment: [if applicable]
+
+## Timeline (Rough)
+- Semester 7: Research, design, core implementation
+- Semester 8: Testing, optimization, documentation
+
+## Expected Deliverables
+- Working software/system
+- Documentation (technical + user manual)
+- Research paper/report (if research-oriented)
+
+## References
+[3-5 key papers or projects that inspired this]
+```
+
+### Week 15-16: Validation & Summer Prep
+
+**Validate Your Idea:**
+- [ ] Discussed with supervisor (or potential supervisor)
+- [ ] Checked feasibility (can I actually build this?)
+- [ ] Confirmed novelty (searched for existing solutions)
+- [ ] Got feedback from 2-3 seniors/peers
+
+**Summer Break 3 Goals:**
+- Internship (primary focus)
+- If no internship: Begin FYP preliminary work
+  - Literature review
+  - Proof-of-concept prototype
+  - Dataset collection (if ML/data project)
+  - Architecture design
+
+**Resources:**
+- [How to Start your Final Year Project](https://www.youtube.com/watch?v=L6yGg01Wsj4) - Recluze (12 min)
+
+---
+
 ## 🔗 Reinforcement (Optional)
 
 - [Career Counselling for CS/SE Graduating Students – Part 1](https://www.youtube.com/watch?v=wA1s9tE62bY) — career direction and portfolio basics.

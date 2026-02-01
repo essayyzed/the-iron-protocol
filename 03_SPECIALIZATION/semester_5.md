@@ -10,6 +10,7 @@
 - Begin your **flagship project** (the centerpiece of your portfolio)
 - Take **advanced courses** in your chosen domain
 - Build **domain-specific skills** that set you apart
+- **Start thinking about FYP** domains (Year 4 preparation begins now)
 
 ---
 
@@ -299,7 +300,25 @@ Define MVP clearly and ship it. Add features after launch.
 
 ---
 
-## 🔗 Reinforcement (Optional)
+## � FYP Ideation (Start Early)
+
+**Why think about FYP now?**
+- Most universities require proposals by early Year 4
+- Good supervisors get booked fast
+- Summer Break 3 can be used for preliminary work
+- Aligns with your specialization choice
+
+**This semester:**
+- [ ] Identify 2-3 domains that interest you (based on your specialization)
+- [ ] Browse recent FYP projects in your department
+- [ ] Note professors working in your interest areas
+- [ ] Keep a "FYP Ideas" document with problems you encounter
+
+**Not required:** Full proposal, just casual observation and ideation.
+
+---
+
+## �🔗 Reinforcement (Optional)
 
 - [Career Counselling for CS/SE Graduating Students – Part 1](https://www.youtube.com/watch?v=wA1s9tE62bY) — career direction and portfolio basics.
 
