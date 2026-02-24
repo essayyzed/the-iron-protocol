@@ -4,6 +4,16 @@
 
 ---
 
+## 📂 Your Year 2 Evidence (The Architecture Portfolio)
+By the end of this year, you must have a GitHub repository named `iron-protocol-year-2` containing:
+
+1. **The Pattern Book (DSA):** 30+ DSA solutions grouped by *pattern* (not random), each with a "Why this pattern?" explanation.
+2. **The Systems Lab:** Verifiable artifacts (code + logs) from your OS and Networking labs.
+3. **The Database Schema:** A complex, normalized database design (3NF) for a real-world problem.
+4. **The Exploration Memo:** A 2-page document justifying your choice of specialization for Year 3 based on your Summer Sprint.
+
+---
+
 ## 🧭 Year 2 Overview
 
 Year 2 is where you transition from **builder** to **computer scientist**.
