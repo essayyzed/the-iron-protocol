@@ -459,6 +459,18 @@ Week 3-4: [Focus areas]
 
 ---
 
+### 🧰 The Hiring Packet (Required)
+You must have:
+- `resume.pdf` (1 page)
+- `portfolio.md` (top 3 projects, screenshots, links)
+- `case_studies.md` (2 case studies using STAR: Situation, Task, Action, Result)
+
+### 🧩 Open Source (Minimum Bar)
+- 2 merged PRs to repos you did not create.
+- 1 issue report with a minimal reproduction.
+
+---
+
 ## ✅ Semester 8 Checklist
 
 - [ ] FYP completed and defended successfully
