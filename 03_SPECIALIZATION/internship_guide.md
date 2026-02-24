@@ -10,7 +10,6 @@
 
 ### The Answer: It Depends on Your Context
 
-#### 🇵🇰 Pakistan-Specific Reality
 
 **The Truth About Pakistani Tech Landscape:**
 
@@ -691,6 +690,6 @@ Consistency matters more than cramming.
 
 ---
 
-*"In Pakistan's context, your FYP and project portfolio speak louder than internship brand names. Execute them well."*  
+*"Your FYP and project portfolio speak louder than internship brand names. Execute them well."*  
 *— The Protocol*  
 *— The Protocol*
