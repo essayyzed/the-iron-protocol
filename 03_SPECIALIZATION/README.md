@@ -4,6 +4,15 @@
 
 ---
 
+## 📂 Year 3: The Specialization Portfolio
+By the end of this year, your GitHub must show **Depth**. A generalist is a commodity; a specialist is an asset.
+
+1. **The Deep Project:** One repository with 50+ commits, a clear `ARCHITECTURE.md`, and automated tests.
+2. **The Internship Log:** A weekly retrospective of what you learned (or why you failed to get one).
+3. **The Technical Deep-Dive:** A blog post or README explaining a complex part of your stack (e.g., "How React's Reconciliation Works" or "Distributed Locking in Redis").
+
+---
+
 ## 🧭 Year 3 Overview
 
 Year 3 is where you go from **generalist** to **specialist**.
