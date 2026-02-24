@@ -69,7 +69,7 @@ Dedicate **2–2.5 hours per day** to web development alongside your coursework.
 
 #### Week 5-6: JavaScript Basics
 
-```javascript
+\`\`\`javascript
 // Variables
 let name = 'Iron Protocol';
 const PI = 3.14159;
@@ -87,11 +87,11 @@ if (condition) {
 for (let i = 0; i < 10; i++) {
   console.log(i);
 }
-```
+\`\`\`
 
 #### Week 7-8: ES6 & DOM Manipulation
 
-```javascript
+\`\`\`javascript
 // Arrow functions
 const add = (a, b) => a + b;
 
@@ -102,7 +102,7 @@ const { name, age } = user;
 document.querySelector('#button').addEventListener('click', () => {
   console.log('Button clicked!');
 });
-```
+\`\`\`
 
 **Project:** Interactive calculator or quiz app
 
@@ -112,7 +112,7 @@ document.querySelector('#button').addEventListener('click', () => {
 
 #### Week 9-10: Node.js & Express
 
-```javascript
+\`\`\`javascript
 // server.js
 const express = require('express');
 const app = express();
@@ -124,11 +124,11 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Server running on port 3000');
 });
-```
+\`\`\`
 
 #### Week 11-12: MongoDB & CRUD
 
-```javascript
+\`\`\`javascript
 // Connect to MongoDB
 const mongoose = require('mongoose');
 
@@ -140,7 +140,7 @@ const NoteSchema = new mongoose.Schema({
 });
 
 // Create, Read, Update, Delete operations
-```
+\`\`\`
 
 **Project:** Notes API with Express + MongoDB
 
@@ -168,7 +168,7 @@ const NoteSchema = new mongoose.Schema({
 
 #### Git & GitHub Mastery
 
-```bash
+\`\`\`bash
 # Initialize repo
 git init
 git add .
@@ -182,7 +182,7 @@ git push -u origin main
 git add .
 git commit -m "Add feature X"
 git push
-```
+\`\`\`
 
 #### Deployment
 
