@@ -121,6 +121,25 @@ Follow these through the semester.
 
 ---
 
+## 📏 How Progress Is Measured (Non-Negotiable)
+
+This roadmap only works if you produce **verifiable artifacts**. Every semester you must have:
+
+1. **One shipped repo** (public or private) with:
+   - clear README (what/why/how)
+   - reproducible run steps
+   - screenshots or a short demo video
+2. **One written reflection** (1–2 pages):
+   - what you built
+   - what broke
+   - how you debugged it
+   - what you will change next semester
+3. **One “explain it” checkpoint**:
+   - record a 5–10 minute video explaining one concept you learned (DSA, OS, networking, DB, etc.)
+
+If you cannot show artifacts, you did not “learn.” You consumed.
+
+
 ## 🧑‍💻 For Faculty / Mentors
 
 - Use this portal as an **unofficial "skills curriculum"** on top of formal courses.
