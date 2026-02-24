@@ -268,6 +268,14 @@ Your flagship project should be:
 
 ---
 
+### ✅ The "Vibe Check" for Projects
+Your project is "Vibe Coding" if it has no tests. It is "Engineering" if:
+- [ ] It has at least 40% test coverage.
+- [ ] It has a `CONTRIBUTING.md` explaining how to run it locally.
+- [ ] You can explain why you chose your specific database/framework over the alternatives.
+
+---
+
 ## ✅ Semester 5 Checklist
 
 - [ ] I selected a specialization track based on genuine interest
