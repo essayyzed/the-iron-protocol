@@ -4,6 +4,18 @@
 
 ---
 
+## 📂 Your Year 1 Evidence (The Portfolio)
+By the end of this year, you must have a single GitHub repository named `iron-protocol-year-1` (or a website) containing:
+
+1. **Semester 1 Lab Book:** A folder of your first 10–20 C++/Python programs with a `README.md` explaining the logic of each.
+2. **The "Nuke Windows" Receipt:** A screenshot of your Linux desktop + your `dotfiles` (config files).
+3. **The Confidence Builder:** A link to a live, deployed Full-Stack CRUD application.
+4. **The Server Log:** A documented record of your VPS setup, Docker containers, and security hardening.
+
+**If you don't have these four things, you didn't finish Year 1.**
+
+---
+
 ## 🧭 Year 1 Overview
 
 This is where it all begins. Year 1 is about **unlearning bad habits** and **building the right foundations**.
@@ -52,6 +64,17 @@ By the end of Year 1, you should be able to:
 - [ ] **Git:** 100+ meaningful commits across your Year 1 projects.
 - [ ] **Ops:** A hardened VPS running at least 2 containerized services via Docker Compose.
 - [ ] **Communication:** 5+ "Good Questions" asked in public forums (Issues/Discord) with full context.
+---
+
+## 🛠️ Protocol Modes (Choose Your Path)
+We know not everyone has a dedicated high-end laptop. Choose the mode that fits your constraints:
+
+- **Full Iron Mode:** Nuke Windows. Linux is your only OS. (Recommended for maximum growth).
+- **Hybrid/Budget Mode:** Use WSL2 (Windows Subsystem for Linux) for daily coding + a 2-hour "Linux Only" session every weekend at a lab or on a live USB.
+- **Cloud Mode:** If your hardware is very weak, use [GitHub Codespaces](https://github.com/features/codespaces) or [Gitpod](https://www.gitpod.io/) for a full Linux environment in the browser.
+
+**Constraint is not an excuse. It is a design requirement.**
+
 ---
 
 ## ⚠️ Common Year 1 Mistakes
