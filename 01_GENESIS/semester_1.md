@@ -13,6 +13,20 @@
 
 ---
 
+## 📌 Evidence You Must Produce (Non-Negotiable)
+By the end of Semester 1 you must have a GitHub repo named `semester-1-foundations` containing:
+
+1. `projects/cli-calculator/` (code + README + sample runs)
+2. `projects/text-game/` (code + README + sample runs)
+3. `linux-setup.md` (your install + what broke + screenshots)
+4. `notes/` with at least **8 short notes** (1 per week) answering:
+   - what you learned
+   - what confused you
+   - what you built
+   - what you will do next week
+
+If it’s not in a repo with a README, it doesn’t count.
+
 ## 📚 University Courses (Typical)
 
 - Introduction to Computing
@@ -85,6 +99,13 @@ man         # manual pages
 
 #### 📺 **Watch Educational Content (2-3 videos/week)**
 
+**Receipts Rule:** For each video, you must create a file:
+`notes/video-<title>.md` with:
+- 5 bullet points of what you learned
+- 1 small program you wrote because of it (link to code)
+- 1 question you still have
+No note = the video doesn’t count.
+
 **Recommended Playlists:**
 - [Introduction to Computing](https://www.youtube.com/watch?v=rms6Dv3n6d0&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym) - Recluze
 - [How to Approach Learning](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rKuL5CILi8CQ35UDFbWimbR) - Recluze (27 videos)
@@ -117,6 +138,21 @@ My code: [relevant snippet]
 Error message: [if any]
 ```
 
+**Non-negotiable:** You must include a **minimal reproducible example**:
+- smallest input that breaks your code
+- smallest snippet that reproduces the bug
+If your question cannot be reproduced, it is not a “good question” yet.
+
+#### 🧠 The 20-Minute Struggle (Structured)
+Before asking for help, do this:
+
+- **5 min:** write expected vs actual output
+- **5 min:** read the error *slowly* and search the exact message
+- **5 min:** reduce to the smallest failing case
+- **5 min:** run 1–2 experiments (print statements / logging / simpler inputs)
+
+When you ask, include what you tried + what changed.
+
 #### 👥 **Study Group (Weekly meetings)**
 
 Find or form a **goal-oriented study group** (3-5 students).
@@ -127,6 +163,17 @@ Find or form a **goal-oriented study group** (3-5 students).
 ---
 
 ## 📦 Mini Projects (End of Semester Targets)
+
+### ✅ Definition of Done (Applies to All Semester 1 Projects)
+For every project:
+- GitHub repo folder + clean README
+- clear run instructions
+- at least **5 test cases** (manual is okay)
+- include sample input/output in README
+- include a `bugs.md` listing:
+  - 2 bugs you hit
+  - how you found them
+  - how you fixed them
 
 ### Project 1: CLI Calculator
 **Difficulty:** Beginner  
@@ -182,14 +229,14 @@ Find or form a **goal-oriented study group** (3-5 students).
 At the end of the semester, evaluate yourself honestly:
 
 - [ ] I can type at **35+ WPM**
-- [ ] I use **Linux** comfortably for basic tasks
-- [ ] I can navigate entirely via **terminal**
+- [ ] I can do basic coursework + coding in Linux without switching OS
+- [ ] I can: create/move/delete/search files via CLI without a GUI
+- [ ] When I get an error, I can explain what it means in my own words and show the line that caused it
 - [ ] I understand **variables, loops, conditionals, functions**
 - [ ] I have completed at least **2 small coding projects**
 - [ ] I wrote and asked at least **4 good questions**
 - [ ] I formed or joined a **goal-oriented study group**
 - [ ] I can use `man` pages to learn new commands
-- [ ] I know how to read error messages
 
 ---
 
@@ -228,12 +275,11 @@ Your first projects will be ugly. That's okay. Ship them anyway.
 
 ## 🎯 Success Metric
 
-**You know you're ready for Semester 2 when:**
-- You can solve FizzBuzz without Googling
-- You can navigate your entire file system via terminal
-- You've shipped at least 2 projects (even if small)
-- You're comfortable being uncomfortable
-
+- You can write a small program (100–200 lines) without getting lost
+- You can debug using prints and reasoning (not guessing)
+- You have a repo with **2 shipped projects** + READMEs + test cases
+- You can explain basic memory concepts (stack vs heap) at a high level
+- You can work in the terminal comfortably for an entire session
 ---
 
 **Next:** [Semester 2 – Web Development Confidence Builder](./semester_2.md)
