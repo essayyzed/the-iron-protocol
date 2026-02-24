@@ -667,6 +667,15 @@ ds-library/
 
 ---
 
+### ✅ Definition of Done (DSA Solutions)
+A problem is only "solved" if:
+- [ ] It passes all test cases.
+- [ ] You have documented the Time and Space complexity.
+- [ ] You have written a "Brute Force vs. Optimized" comparison.
+- [ ] You can re-implement it from scratch 24 hours later without looking at the solution.
+
+---
+
 ## ✅ Semester 3 Checklist
 
 - [ ] I can implement stack, queue, linked list, BST, heap from scratch
