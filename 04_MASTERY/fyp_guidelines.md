@@ -1,5 +1,15 @@
 # 📋 Final Year Project (FYP) Guidelines
 
+### ✅ Definition of Done (Production-Grade)
+Your FYP is only acceptable if it has:
+- **Auth & roles** (even basic): at least 2 roles (e.g., user/admin).
+- **Input validation** + safe error handling (no leaking secrets/stack traces).
+- **Observability**: structured logs + basic metrics (request latency, error rate).
+- **Deployment**: reproducible deploy (Docker + compose or equivalent).
+- **Runbook**: `RUNBOOK.md` with common failures and fixes.
+- **Backup/restore** steps for data (even if it's just Postgres dumps).
+- **Security baseline**: HTTPS, least-privilege secrets, no credentials in repo.
+
 > **Best Practices for a Successful FYP**
 
 ---
@@ -589,3 +599,6 @@ Cost-benefit wise, it makes sense to optimize [X] before scaling [Y]."
 
 *"Your FYP is your final statement as an undergraduate. Make it count."*  
 *— The Protocol*
+
+### 💥 Staged Failure (Required)
+You must intentionally break your system once (e.g., kill DB, throttle network, overload API) and write a short postmortem: what happened, how you detected it, and what you changed.
