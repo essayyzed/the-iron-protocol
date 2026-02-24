@@ -503,6 +503,18 @@ Conclusion: Strong closing
 
 ---
 
+### 📦 Deliverables (Week-by-Week)
+- **Week 1:** `problem.md` (scope, users, non-goals) + `architecture.md` (diagram + components).
+- **Week 2:** Working vertical slice + CI pipeline (lint/test).
+- **Week 3:** Database schema + migrations + seed data.
+- **Week 4:** Auth + RBAC + audit logging (who did what).
+- **Week 5:** Load test v1 + bottleneck notes.
+- **Week 6:** Observability (logs/metrics) + alerting (even if local).
+- **Week 7:** Security checklist pass + secrets review.
+- **Week 8:** Final demo + `RUNBOOK.md` + postmortem.
+
+---
+
 ## ✅ Semester 7 Checklist
 
 - [ ] FYP proposal approved and project started
