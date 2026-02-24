@@ -8,6 +8,16 @@
 
 This is where it all begins. Year 1 is about **unlearning bad habits** and **building the right foundations**.
 
+## 📂 Your Year 1 Evidence (The Portfolio)
+By the end of this year, you must have a single GitHub repository named `iron-protocol-year-1` (or a website) containing:
+
+1. **Semester 1 Lab Book:** A folder of your first 10-20 C++/Python programs with a `README.md` explaining the logic of each.
+2. **The "Nuke Windows" Receipt:** A screenshot of your Linux desktop + your `dotfiles` (config files).
+3. **The Confidence Builder:** A link to a live, deployed Full-Stack CRUD application.
+4. **The Server Log:** A documented record of your VPS setup, Docker containers, and security hardening.
+
+**If you don't have these four things, you didn't finish Year 1.**
+
 You will:
 - Learn **how to learn** effectively
 - Build a **problem-solving mindset**
@@ -34,17 +44,14 @@ You will:
 
 By the end of Year 1, you should be able to:
 
-- [ ] Type at **40+ WPM** comfortably
-- [ ] Use **Linux** as your daily driver OS
-- [ ] Navigate and operate entirely via **terminal/CLI**
-- [ ] Write basic programs in at least **one language** (C++/Python/Java)
-- [ ] Build a **full-stack CRUD web application**
-- [ ] Use **Git** and have an active **GitHub profile**
-- [ ] Deploy a live website accessible on the internet
-- [ ] SSH into a server and manage it
-- [ ] Use **Docker** to containerize an application
-- [ ] Ask **good technical questions** (Write → Narrow → Search → Ask)
-
+- [ ] **Typing:** 40+ WPM on [Monkeytype](https://monkeytype.com/) (15-minute test).
+- [ ] **OS:** Zero dependency on Windows/macOS for dev work.
+- [ ] **CLI:** Can perform all file operations, git commands, and compilation without a GUI.
+- [ ] **Programming:** Can solve "LeetCode Easy" level problems in C++/Python without AI.
+- [ ] **Web:** A deployed CRUD app with Auth + Input Validation + Error Handling.
+- [ ] **Git:** 100+ meaningful commits across your Year 1 projects.
+- [ ] **Ops:** A hardened VPS running at least 2 containerized services via Docker Compose.
+- [ ] **Communication:** 5+ "Good Questions" asked in public forums (Issues/Discord) with full context.
 ---
 
 ## ⚠️ Common Year 1 Mistakes
@@ -64,12 +71,13 @@ Every line of code you write should make sense to you. If it doesn't, stop and l
 ### ❌ **Not Using Git Early**
 Don't wait until a professor forces you. Start version controlling everything now.
 
+
 ---
 
 ## 💡 Pro Tips for Year 1
 
 1. **Join a goal-oriented study group** (3-5 serious students)
-2. **Document your learning** (blog, notes, GitHub READMEs)
+2. **The 1:3 Rule:** For every 20 minutes of video you watch, you must spend 60 minutes writing code related to that video. If you didn't write code, the video didn't happen.
 3. **Embrace the struggle** (20-minute rule before asking for help)
 4. **Build in public** (share your projects, even if imperfect)
 5. **Stay consistent** (daily coding > weekend binges)
