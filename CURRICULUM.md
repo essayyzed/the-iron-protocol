@@ -59,7 +59,14 @@ It is based on:
    Don't memorize isolated facts. Always link new concepts to things you already know.
 6. **AI is a tool, not your brain**
    Use AI (ChatGPT, Copilot, etc.) to **understand and verify**, not to copy answers blindly.
-7. **Portfolio > GPA in industry**
+   Use AI to explain, review, or brainstorm — not to blindly paste solutions.
+   If AI helped you, you must document:
+      - what you asked
+      - what it suggested
+      - what you changed
+      - what you learned
+   And you must be able to re-implement the core solution yourself within 48 hours.
+8. **Portfolio > GPA in industry**
    A strong website, GitHub, and projects often matter more than your exact CGPA in job interviews.
 
 ---
@@ -199,11 +206,31 @@ If you cannot show artifacts, you did not “learn.” You consumed.
 - Write at least **1 good question per week** (following the protocol: Write → Narrow → Search → Ask).
 - Join or form a **goal-oriented study group** (3–5 students with similar ambitions).
 
+#### 🧠 The 20-Minute Struggle (Structured)
+When you’re stuck, do this before asking for help:
+
+- **5 min:** reproduce the issue + write expected vs actual
+- **5 min:** read the error carefully + search the exact message
+- **5 min:** isolate the smallest failing case (remove extra code)
+- **5 min:** try 1–2 experiments (print/debug/logging)
+
+When you ask for help, include:
+- what you tried
+- what changed
+- minimal code snippet or repro steps
+
 ### 📦 Mini Projects (End of Semester Targets)
 
 1. **CLI Calculator** (simple command-line calculator in your programming language).
 2. **Text-based game** (e.g., number guessing, tic-tac-toe, simple adventure).
 3. **Linux setup documentation** (write a blog post or doc about your Linux setup and what you learned).
+
+#### ✅ Definition of Done (Semester 1 Projects)
+For each project:
+- Must be in a GitHub repo with a README.
+- README must include: problem, approach, how to run, example input/output.
+- You must include at least **5 test cases** (manual is fine if you don’t know testing yet).
+- You must write a short “What broke + how I fixed it” note.
 
 ### ✅ Semester 1 Checklist
 
@@ -271,6 +298,18 @@ Dedicate **2–2.5 hours per day** to web development.
 2. **Dynamic CRUD app** (Node.js + Express + MongoDB) – e.g., Notes app, Todo list, or simple blog.
 3. **GitHub profile** with at least 2 active repositories.
 
+#### ✅ Definition of Done (Semester 2 CRUD App)
+Your CRUD app must include at least **3** of the following (pick deliberately):
+- Authentication (sessions or JWT)
+- Input validation + meaningful error messages
+- Pagination + search
+- Logging (requests + errors) with a clear format
+- Rate limiting (basic)
+- A simple test suite (at least 5 tests)
+- A short threat model in the README (what could go wrong?)
+
+If you can’t explain the database schema and request flow end-to-end, it doesn’t count.
+
 ### ✅ Semester 2 Checklist
 
 - [ ] I understand HTML/CSS/Bootstrap layout.
@@ -299,6 +338,17 @@ Dedicate **2–2.5 hours per day** to web development.
 ### 📅 8–10 Week Plan
 
 #### Week 1–2: Linux Server Basics
+#### 🔒 Mandatory VPS Safety Baseline (Before Hosting Anything)
+Before exposing any service publicly:
+
+- Create a non-root user + disable root SSH login
+- Use SSH keys (disable password login)
+- Enable firewall: allow only SSH (22) + HTTP/HTTPS (80/443)
+- Install basic protection (e.g., fail2ban)
+- Enable automatic security updates OR set a weekly update routine
+- Keep secrets out of repos (no `.env` committed)
+
+If you skip this, you’re not “learning DevOps.” You’re learning how to get hacked.
 
 - Rent a cheap VPS (DigitalOcean, Linode, Vultr, AWS Lightsail – $5–10/month).
 - SSH into your server.
@@ -376,16 +426,19 @@ Dedicate **2–2.5 hours per day** to web development.
 
 ### 🛠 Parallel Track (Self-Directed)
 
-#### Weekly Practice
+#### Weekly Practice (Structured)
+Solve **2–3 problems/week**, but grouped by topic (so you learn patterns, not trivia).
 
-- Solve **2–3 coding problems** per week (LeetCode Easy, HackerRank, Codeforces).
-- Focus on:
-- Arrays, strings.
-- Linked lists.
-- Stacks, queues.
-- Basic trees (binary trees, BST).
-- Recursion.
-- Time/space complexity analysis.
+Each week:
+- pick 1 topic (arrays, two pointers, stacks, BFS/DFS, recursion, etc.)
+- solve 2–3 problems from that topic
+- write a short solution note:
+  - approach
+  - time/space complexity
+  - common mistakes
+  - how you would explain it to a friend
+
+Goal by end of semester: **20–30 problems WITH notes**, not 50 random problems with no learning.
 
 #### Conceptual Study
 
@@ -442,6 +495,15 @@ Dedicate **2–2.5 hours per day** to web development.
 - **Socket programming:** Write a simple TCP client and server.
 - **HTTP basics:** Understand requests/responses.
 - **Packet analysis:** Use Wireshark to inspect traffic.
+
+#### ✅ Lab Artifact Rule (Semester 4)
+Every lab must produce a GitHub repo or a folder with:
+- code
+- run instructions
+- a short lab report (what you observed)
+- one “extension” experiment (change one variable and note what happens)
+
+If it’s not documented, it didn’t happen.
 
 #### Database Practice
 
@@ -512,14 +574,15 @@ Spend **1–2 weeks per area**. Goal: Build one small project in each.
 - Learn: Unity (C#) or Godot.
 - Project: Simple 2D game (e.g., Pong, Flappy Bird clone).
 
-### 📦 Outputs
-
-- ✅ 5 small repos (one per area).
-- ✅ A reflection document:
-- What did I enjoy?
-- What felt tedious?
-- What do I want to explore deeper?
-- What should I avoid?
+### 📦 Outputs (Must Have)
+- ✅ 5 small repos (one per area), each with:
+  - README: goal, setup, result
+  - one constraint (performance, accuracy, usability, etc.)
+  - one hard thing you learned
+- ✅ One **Decision Memo** (1–2 pages):
+  - which 1–2 areas you will specialize in
+  - why (evidence from your projects)
+  - what you will stop doing (to protect focus)
 
 ### ⚠️ Common Mistakes
 
@@ -555,6 +618,13 @@ Spend **1–2 weeks per area**. Goal: Build one small project in each.
 - Core course (e.g., Software Engineering, Theory of Computation).
 
 ### 🎨 Possible Specialization Tracks
+
+> **Gate for AI/Agentic Projects:** You may not choose “agentic AI” as your main track unless you can already ship a normal application with:
+> - tests
+> - deployment
+> - logging/error handling
+> - a database
+> Otherwise, you’ll build demos that collapse under real requirements.
 
 Choose 1–2:
 
@@ -860,6 +930,16 @@ Tasks:
 
 **Scale:**
 0 = None, 1 = Awareness, 2 = Basic, 3 = Intermediate, 4 = Strong, 5 = Expert
+
+### 🔍 Rating Anchors (So the Matrix Means Something)
+Use these anchors when rating yourself:
+
+- **1 (Awareness):** I’ve seen it, can follow a tutorial.
+- **2 (Basic):** I can do it alone with docs; I get stuck but can recover.
+- **3 (Intermediate):** I can build small real projects; I can debug common failures.
+- **4 (Strong):** I can design, implement, and explain tradeoffs; I can help others.
+
+If you can’t explain it clearly, you’re not a 3+ yet.
 
 At the end of each semester, update your self-rating for that semester.
 
@@ -1174,93 +1254,6 @@ Employers will check your GitHub. Make sure it shows:
 ### Programming Fundamentals
 - *Think Like a Programmer* by V. Anton Spraul
 - *Introduction to Computation and Programming Using Python (3rd ed.)* by John V. Guttag
-- *Clean Code* by Robert C. Martin
-- *The Pragmatic Programmer* by Andrew Hunt & David Thomas
-
-### Algorithms & Data Structures
-- *Introduction to Algorithms* (CLRS)
-- *Grokking Algorithms* by Aditya Bhargava
-- *Algorithm Design Manual* by Steven Skiena
-
-### Systems
-- *The Linux Command Line* by William Shotts (free online)
-- *Operating Systems: Three Easy Pieces* (free online)
-- *Computer Networking: A Top-Down Approach* by Kurose & Ross
-
-### Career
-- *Cracking the Coding Interview* by Gayle Laakmann McDowell
-- *System Design Interview* by Alex Xu
-
----
-
-*This roadmap is continuously evolving. Contributions welcome!*
-
----
-
-# 🔗 Resources & Links
-
-## 🎬 YouTube Channels
-
-### Computer Science Fundamentals
-- **[Recluze](https://www.youtube.com/@recluze)** - CS Fundamentals, Programming, Web Dev, System Administration, Algorithms
-- **[CS50](https://www.youtube.com/@cs50)** - Harvard's Computer Science courses
-- **[MIT OpenCourseWare](https://www.youtube.com/@mitocw)** - Advanced CS topics
-- **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Algorithms explained clearly
-
-### Web Development
-- **[Traversy Media](https://www.youtube.com/@TraversyMedia)** - Web development crash courses
-- **[Fireship](https://www.youtube.com/@Fireship)** - Modern web technologies in minutes
-- **[The Net Ninja](https://www.youtube.com/@NetNinja)** - Full-stack tutorials
-- **[freeCodeCamp](https://www.youtube.com/@freecodecamp)** - Full courses
-
-### DevOps & System Administration
-- **[TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)** - Docker, Kubernetes, DevOps
-- **[NetworkChuck](https://www.youtube.com/@NetworkChuck)** - Linux, networking, servers
-- **[LearnLinuxTV](https://www.youtube.com/@LearnLinuxTV)** - Linux tutorials
-
-### Data Structures & Algorithms
-- **[Recluze - DSA Playlists](https://www.youtube.com/@recluze)** - Data Structures & Algorithms
-- **[NeetCode](https://www.youtube.com/@NeetCode)** - LeetCode solutions explained
-- **[WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)** - Graph algorithms, data structures
-
----
-
-## 📚 Free Online Courses
-
-- **[CS50x](https://cs50.harvard.edu/x/)** - Harvard's Introduction to Computer Science
-- **[Introduction to Computation and Programming Using Python (Full Course)](https://youtu.be/KhouhgeQ2oo?si=F0WysbpzhBV_Akdl)** - Python fundamentals and computational thinking
-- **[MIT Missing Semester](https://missing.csail.mit.edu/)** - Command-line, Git, Vim, etc.
-- **[The Odin Project](https://www.theodinproject.com/)** - Full-stack web development
-- **[freeCodeCamp](https://www.freecodecamp.org/)** - Web development certifications
-- **[Coursera](https://www.coursera.org/)** - University courses (audit for free)
-- **[edX](https://www.edx.org/)** - MIT, Harvard courses
-
----
-
-## 🛠️ Practice Platforms
-
-### Coding Challenges
-- **[LeetCode](https://leetcode.com/)** - Interview preparation
-- **[HackerRank](https://www.hackerrank.com/)** - Coding practice
-- **[Codeforces](https://codeforces.com/)** - Competitive programming
-- **[CodeChef](https://www.codechef.com/)** - Programming contests
-
-### Frontend Practice
-- **[Frontend Mentor](https://www.frontendmentor.io/)** - Real-world UI challenges
-- **[CSS Battle](https://cssbattle.dev/)** - CSS challenges
-- **[JavaScript30](https://javascript30.com/)** - 30 vanilla JS projects
-
-### Cybersecurity
-- **[HackTheBox](https://www.hackthebox.com/)** - Penetration testing practice
-- **[TryHackMe](https://tryhackme.com/)** - Learn cybersecurity
-- **[OverTheWire](https://overthewire.org/)** - Wargames
-
----
-
-## 📖 Recommended Books
-
-### Programming Fundamentals
-- *Think Like a Programmer* by V. Anton Spraul
 - *Clean Code* by Robert C. Martin
 - *The Pragmatic Programmer* by Andrew Hunt & David Thomas
 
